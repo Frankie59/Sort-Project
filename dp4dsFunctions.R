@@ -1,8 +1,3 @@
-# File: dp4dsFunctions.R
-# Stan Warford
-# September, 2014
-# Functions for CoSc 320, Data Structures
-
 # Performs two curve fits, quadratic and n lg n, with a plot of the data and the two curves
 # First parameter: A data frame
 # Second parameter: Name of the independent (x) variable
